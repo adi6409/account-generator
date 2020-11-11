@@ -5,18 +5,20 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/silvanohirtie/account-generator.git"
+    "url": "git+https://github.com/adi6409/account-generator.git"
   },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/silvanohirtie/account-generator/issues"
+    "url": "https://github.com/adi6409/account-generator/issues"
   },
-  "homepage": "https://github.com/silvanohirtie/account-generator#readme",
+  "homepage": "https://github.com/adi6409/account-generator#readme",
   "dependencies": {
     "async": "^3.1.0",
     "discord.js": "^11.5.1",
